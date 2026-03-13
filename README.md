@@ -22,7 +22,7 @@ Bu proje, BİL 2004 Veritabanı Yönetimi dersi kapsamında, bir kafenin günlü
 - [**Tablolar.sql**](./Tablolar.sql): Veritabanı şemasını (DDL) ve tablolar arası ilişkileri oluşturan kodlar.
 - [**Veriler.sql**](./Veriler.sql): Tablolara sentetik/kurgusal verilerin (DML) eklendiği script dosyası.
 - [**Sorgular.sql**](./Sorgular.sql): Kafenin işleyişine dair analitik ve operasyonel SQL sorguları.
-- [**BİL 2004 Veritabanı Yönetimi Proje Raporu.docx**](./BİL%202004%20Veritabanı%20Yönetimi%20Proje%20Raporu.docx): ER diyagramını, ihtiyaç analizini ve proje detaylarını içeren doküman.
+- [**BİL 2004 Veritabanı Yönetimi Proje Raporu.pdf**](./BİL%202004%20Veritabanı%20Yönetimi%20Proje%20Raporu.pdf): ER diyagramını, ihtiyaç analizini ve proje detaylarını içeren doküman.
 
 ---
 
@@ -44,4 +44,4 @@ This project is a relational database management system (RDBMS) developed on SQL
 - [**Tablolar.sql**](./Tablolar.sql): The DDL script containing the database schema and table relationships.
 - [**Veriler.sql**](./Veriler.sql): The DML script used to insert mock/synthetic data into the tables.
 - [**Sorgular.sql**](./Sorgular.sql): Analytical and operational SQL queries demonstrating the cafe's workflow.
-- [**BİL 2004 Veritabanı Yönetimi Proje Raporu.docx**](./BİL%202004%20Veritabanı%20Yönetimi%20Proje%20Raporu.docx): The project report containing the ER diagram, requirements analysis, and project details.
+- [**BİL 2004 Veritabanı Yönetimi Proje Raporu.pdf**](./BİL%202004%20Veritabanı%20Yönetimi%20Proje%20Raporu.pdf): The project report containing the ER diagram, requirements analysis, and project details.
